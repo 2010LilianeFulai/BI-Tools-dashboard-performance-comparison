@@ -10,17 +10,17 @@ This repository contains a comparative analysis of Tableau and Power BI, evaluat
 4. Provide recommendations for businesses
 
 # Methodology
-. Litterature review
-. Hands-on analysis
-. Dashboard creation and comparison
+- Litterature review
+- Hands-on analysis
+- Dashboard creation and comparison
 
 # Repository Structure
-. docs/: Literature review, research papers, and references
-. data/: Sample datasets ued for dashboard creation
-. tableau/: Tableau dashboard files and screenshots
-. powerbi/: Tableau dashboard files and screenshots
-. results/: Comparison results and analysis
-. presentation/: Final presentation and report
++ docs/: Literature review, research papers, and references
++ data/: Sample datasets ued for dashboard creation
++ tableau/: Tableau dashboard files and screenshots
++ powerbi/: Tableau dashboard files and screenshots
++ results/: Comparison results and analysis
++ presentation/: Final presentation and report
 
 # License
 MIT License
