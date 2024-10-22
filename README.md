@@ -1,7 +1,7 @@
 # Tableau vs PowerBI: Comparative Analysis
 
 # Project Overview
-This repository contains a comparative analysis of Tableau and Power BI, evaluating their dashboard performances and identifying exissting gaps. 
+This repository contains a comparative analysis of Tableau and Power BI, evaluating their dashboard performances and identifying existing gaps. 
 
 # Research Objectives
 1. Compare dashboard creation capabilities
